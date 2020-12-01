@@ -595,3 +595,5 @@
 /Users/apple/Downloads/IT_CNPM/C#/WebApp/Udemy/BulkyBook/BulkyBook/obj/Debug/netcoreapp3.1/Razor/Areas/Customer/Views/_ViewStart.cshtml.g.cs
 /Users/apple/Downloads/IT_CNPM/C#/WebApp/Udemy/BulkyBook/BulkyBook/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
 /Users/apple/Downloads/IT_CNPM/C#/WebApp/Udemy/BulkyBook/BulkyBook/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/apple/Downloads/IT_CNPM/C#/WebApp/Udemy/BulkyBook/BulkyBook/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/_ViewImports.cshtml.g.cs
+/Users/apple/Downloads/IT_CNPM/C#/WebApp/Udemy/BulkyBook/BulkyBook/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/_ViewStart.cshtml.g.cs

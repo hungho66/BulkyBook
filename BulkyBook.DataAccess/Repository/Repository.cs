@@ -1,10 +1,11 @@
-﻿using System;
+﻿using BulkyBook.DataAccess.Data;
+using BulkyBook.DataAccess.Repository.IRepository;
+using Microsoft.EntityFrameworkCore;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
-using BulkyBook.DataAccess.Data;
-using BulkyBook.DataAccess.Repository.IRepository;
-using Microsoft.EntityFrameworkCore;
+using System.Text;
 
 namespace BulkyBook.DataAccess.Repository
 {
@@ -27,6 +28,7 @@ namespace BulkyBook.DataAccess.Repository
             dbSet.Add(entity);
         }
 
+        //T là một thực thể, một entity, một class
         //Get entity theo Id
         public T Get(int id)
         {
@@ -34,21 +36,20 @@ namespace BulkyBook.DataAccess.Repository
         }
 
         //Fillter
-        public IEnumerable<T> GetAll(Expression<Func<T, bool>> fillter = null, Func<IQueryable<T>, IOrderedQueryable<T>> orderBy = null, string includeProperties = null)
+        public IEnumerable<T> GetAll(Expression<Func<T, bool>> filter = null, Func<IQueryable<T>, IOrderedQueryable<T>> orderBy = null, string includeProperties = null)
         {
-
             IQueryable<T> query = dbSet;
 
             //Kiểm tra Fillter có không
-            if(fillter != null)
+            if (filter != null)
             {
-                query = query.Where(fillter);
+                query = query.Where(filter);
             }
 
-            //Liên kết sản phẩm danh mục, ví dụ sản phẩm A có danh mục B,C
+
             if(includeProperties != null)
             {
-                foreach (var includeProp in includeProperties.Split(new char[] { ','}, StringSplitOptions.RemoveEmptyEntries))
+                foreach (var includeProp in includeProperties.Split(new char[] { ',' }, StringSplitOptions.RemoveEmptyEntries))
                 {
                     query = query.Include(includeProp);
                 }
@@ -58,18 +59,16 @@ namespace BulkyBook.DataAccess.Repository
             {
                 return orderBy(query).ToList();
             }
-
             return query.ToList();
         }
 
-        public T GetFirstOrDefualt(Expression<Func<T, bool>> fillter = null, string includeProperties = null)
+        public T GetFirstOrDefault(Expression<Func<T, bool>> filter = null, string includeProperties = null)
         {
             IQueryable<T> query = dbSet;
 
-            //Kiểm tra Fillter có không
-            if (fillter != null)
+            if (filter != null)
             {
-                query = query.Where(fillter);
+                query = query.Where(filter);
             }
 
             //Liên kết sản phẩm danh mục, ví dụ sản phẩm A có danh mục B,C
@@ -81,10 +80,10 @@ namespace BulkyBook.DataAccess.Repository
                 }
             }
 
+            
             return query.FirstOrDefault();
         }
 
-        //T là một thực thể, một entity, một class
         public void Remove(int id)
         {
             T entity = dbSet.Find(id);
@@ -93,7 +92,7 @@ namespace BulkyBook.DataAccess.Repository
 
         public void Remove(T entity)
         {
-            Remove(entity);
+            dbSet.Remove(entity);
         }
 
         public void RemoveRange(IEnumerable<T> entity)

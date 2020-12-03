@@ -1,12 +1,11 @@
-//Mac/Home/Downloads/IT_CNPM/C#/WebApp/Udemy/BulkyBook/BulkyBook.Utility/bin/Debug/netcoreapp3.1/BulkyBook.Utility.deps.json
-//Mac/Home/Downloads/IT_CNPM/C#/WebApp/Udemy/BulkyBook/BulkyBook.Utility/bin/Debug/netcoreapp3.1/BulkyBook.Utility.dll
-//Mac/Home/Downloads/IT_CNPM/C#/WebApp/Udemy/BulkyBook/BulkyBook.Utility/bin/Debug/netcoreapp3.1/BulkyBook.Utility.pdb
-//Mac/Home/Downloads/IT_CNPM/C#/WebApp/Udemy/BulkyBook/BulkyBook.Utility/obj/Debug/netcoreapp3.1/BulkyBook.Utility.csprojAssemblyReference.cache
-//Mac/Home/Downloads/IT_CNPM/C#/WebApp/Udemy/BulkyBook/BulkyBook.Utility/obj/Debug/netcoreapp3.1/BulkyBook.Utility.AssemblyInfoInputs.cache
-//Mac/Home/Downloads/IT_CNPM/C#/WebApp/Udemy/BulkyBook/BulkyBook.Utility/obj/Debug/netcoreapp3.1/BulkyBook.Utility.AssemblyInfo.cs
-//Mac/Home/Downloads/IT_CNPM/C#/WebApp/Udemy/BulkyBook/BulkyBook.Utility/obj/Debug/netcoreapp3.1/BulkyBook.Utility.csproj.CoreCompileInputs.cache
-//Mac/Home/Downloads/IT_CNPM/C#/WebApp/Udemy/BulkyBook/BulkyBook.Utility/obj/Debug/netcoreapp3.1/BulkyBook.Utility.dll
-//Mac/Home/Downloads/IT_CNPM/C#/WebApp/Udemy/BulkyBook/BulkyBook.Utility/obj/Debug/netcoreapp3.1/BulkyBook.Utility.pdb
+C:/Users/bhrug/Desktop/Udemy Course Code/Lecture Code/Lecture - BulkyBook/BulkyBook/BulkyBook.Utility/bin/Debug/netcoreapp3.1/BulkyBook.Utility.deps.json
+C:/Users/bhrug/Desktop/Udemy Course Code/Lecture Code/Lecture - BulkyBook/BulkyBook/BulkyBook.Utility/bin/Debug/netcoreapp3.1/BulkyBook.Utility.dll
+C:/Users/bhrug/Desktop/Udemy Course Code/Lecture Code/Lecture - BulkyBook/BulkyBook/BulkyBook.Utility/bin/Debug/netcoreapp3.1/BulkyBook.Utility.pdb
+C:/Users/bhrug/Desktop/Udemy Course Code/Lecture Code/Lecture - BulkyBook/BulkyBook/BulkyBook.Utility/obj/Debug/netcoreapp3.1/BulkyBook.Utility.csprojAssemblyReference.cache
+C:/Users/bhrug/Desktop/Udemy Course Code/Lecture Code/Lecture - BulkyBook/BulkyBook/BulkyBook.Utility/obj/Debug/netcoreapp3.1/BulkyBook.Utility.AssemblyInfoInputs.cache
+C:/Users/bhrug/Desktop/Udemy Course Code/Lecture Code/Lecture - BulkyBook/BulkyBook/BulkyBook.Utility/obj/Debug/netcoreapp3.1/BulkyBook.Utility.AssemblyInfo.cs
+C:/Users/bhrug/Desktop/Udemy Course Code/Lecture Code/Lecture - BulkyBook/BulkyBook/BulkyBook.Utility/obj/Debug/netcoreapp3.1/BulkyBook.Utility.dll
+C:/Users/bhrug/Desktop/Udemy Course Code/Lecture Code/Lecture - BulkyBook/BulkyBook/BulkyBook.Utility/obj/Debug/netcoreapp3.1/BulkyBook.Utility.pdb
 /Users/apple/Downloads/IT_CNPM/C#/WebApp/Udemy/BulkyBook/BulkyBook.Utility/bin/Debug/netcoreapp3.1/BulkyBook.Utility.deps.json
 /Users/apple/Downloads/IT_CNPM/C#/WebApp/Udemy/BulkyBook/BulkyBook.Utility/bin/Debug/netcoreapp3.1/BulkyBook.Utility.dll
 /Users/apple/Downloads/IT_CNPM/C#/WebApp/Udemy/BulkyBook/BulkyBook.Utility/bin/Debug/netcoreapp3.1/BulkyBook.Utility.pdb

@@ -1,12 +1,15 @@
-﻿using System;
-using BulkyBook.DataAccess.Data;
+﻿using BulkyBook.DataAccess.Data;
 using BulkyBook.DataAccess.Repository.IRepository;
+using System;
+using System.Collections.Generic;
+using System.Text;
 
 namespace BulkyBook.DataAccess.Repository
 {
     public class UnitOfWork : IUnitOfWork
     {
         private readonly ApplicationDbContext _db;
+
         public UnitOfWork(ApplicationDbContext db)
         {
             _db = db;

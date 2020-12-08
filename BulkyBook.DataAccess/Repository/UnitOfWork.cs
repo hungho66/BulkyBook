@@ -17,7 +17,7 @@ namespace BulkyBook.DataAccess.Repository
             SP_Call = new SP_Call(_db);
         }
 
-        public ICategoryRepository Category { get; private set; }
+        public ICategoryRepository Category { get; private set; } //DbSet
         public ISP_Call SP_Call { get; private set; }
 
         public void Dispose()

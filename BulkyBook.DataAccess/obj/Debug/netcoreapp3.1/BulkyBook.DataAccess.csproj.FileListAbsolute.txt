@@ -25,3 +25,17 @@ C:/Users/bhrug/Desktop/Udemy Course Code/Lecture Code/Lecture - BulkyBook/BulkyB
 /Users/apple/Downloads/IT_CNPM/C#/WebApp/Udemy/BulkyBook/BulkyBook.DataAccess/obj/Debug/netcoreapp3.1/BulkyBook.DataAccess.csproj.CopyComplete
 /Users/apple/Downloads/IT_CNPM/C#/WebApp/Udemy/BulkyBook/BulkyBook.DataAccess/obj/Debug/netcoreapp3.1/BulkyBook.DataAccess.dll
 /Users/apple/Downloads/IT_CNPM/C#/WebApp/Udemy/BulkyBook/BulkyBook.DataAccess/obj/Debug/netcoreapp3.1/BulkyBook.DataAccess.pdb
+\\Mac\Home\Downloads\IT_CNPM\C#\WebApp\Udemy\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.DataAccess.deps.json
+\\Mac\Home\Downloads\IT_CNPM\C#\WebApp\Udemy\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.DataAccess.dll
+\\Mac\Home\Downloads\IT_CNPM\C#\WebApp\Udemy\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.DataAccess.pdb
+\\Mac\Home\Downloads\IT_CNPM\C#\WebApp\Udemy\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.Models.dll
+\\Mac\Home\Downloads\IT_CNPM\C#\WebApp\Udemy\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.Utility.dll
+\\Mac\Home\Downloads\IT_CNPM\C#\WebApp\Udemy\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.Models.pdb
+\\Mac\Home\Downloads\IT_CNPM\C#\WebApp\Udemy\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.Utility.pdb
+\\Mac\Home\Downloads\IT_CNPM\C#\WebApp\Udemy\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.csprojAssemblyReference.cache
+\\Mac\Home\Downloads\IT_CNPM\C#\WebApp\Udemy\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.AssemblyInfoInputs.cache
+\\Mac\Home\Downloads\IT_CNPM\C#\WebApp\Udemy\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.AssemblyInfo.cs
+\\Mac\Home\Downloads\IT_CNPM\C#\WebApp\Udemy\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\IT_CNPM\C#\WebApp\Udemy\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.csproj.CopyComplete
+\\Mac\Home\Downloads\IT_CNPM\C#\WebApp\Udemy\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.dll
+\\Mac\Home\Downloads\IT_CNPM\C#\WebApp\Udemy\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.pdb

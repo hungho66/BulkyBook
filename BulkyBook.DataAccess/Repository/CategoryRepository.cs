@@ -24,7 +24,6 @@ namespace BulkyBook.DataAccess.Repository
             if (objFromDb != null)
             {
                 objFromDb.Name = category.Name;//Truyền name vào --> update lại objFromDb
-                _db.SaveChanges();
             }
         }
     }
